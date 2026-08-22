@@ -21,4 +21,4 @@ To use the given modules, simply change the inner diameter in the Inner Raceway 
 - [`Outer Raceway Drawing.PDF`](<Outer Raceway Drawing.PDF>) : 2D schematic illustrating rough geometric layout of outer raceway.
 
 ## Licensing
-This hardware design is licensed under the CERN Open Hardware License Version 2 – Permissive (CERN-OHL-P-2.0). You may use, modify, and distribute this design under the terms of the CERN-OHL-P-2.0. You are not required to share derivative designs or modifications. Distributed WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the CERN-OHL-P-2.0 for more details.
+This hardware design is licensed under the CERN Open Hardware License Version 2 – Permissive (CERN-OHL-P-2.0). You may use, modify, and distribute this design under the terms of the CERN-OHL-P-2.0. You are not required to share derivative designs or modifications. Distributed WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the [`CERN-OHL-P-2.0`](<LICENSE>) for more details.
