@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1342606895.svg)](https://doi.org/10.5281/zenodo.22057497)
+
 # Arc Enclosed Ball Bearing
 
 ## Technical Field
